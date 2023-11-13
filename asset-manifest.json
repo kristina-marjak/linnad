@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/linnad/static/css/main.d76b7a09.css",
+    "main.js": "/linnad/static/js/main.babe61ea.js",
+    "static/js/787.6e10e7be.chunk.js": "/linnad/static/js/787.6e10e7be.chunk.js",
+    "static/media/sydney.png": "/linnad/static/media/sydney.ceff286c1a7b4afa8532.png",
+    "static/media/vienna.png": "/linnad/static/media/vienna.d4639e22f9f55aebe830.png",
+    "static/media/paris.jpg": "/linnad/static/media/paris.8ccfbb14415b0557a2c5.jpg",
+    "index.html": "/linnad/index.html",
+    "main.d76b7a09.css.map": "/linnad/static/css/main.d76b7a09.css.map",
+    "main.babe61ea.js.map": "/linnad/static/js/main.babe61ea.js.map",
+    "787.6e10e7be.chunk.js.map": "/linnad/static/js/787.6e10e7be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76b7a09.css",
+    "static/js/main.babe61ea.js"
+  ]
+}
